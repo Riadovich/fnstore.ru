@@ -1,4 +1,126 @@
-2017-Sep-13 16:11:12 Наличие необходимых модулей php (check_php_modules): Ok
+2017-Sep-14 16:18:21 Наличие необходимых модулей php (check_php_modules): Ok
 Все необходимые модули установлены
-2017-Sep-13 16:11:12 Обязательные параметры PHP (check_php_settings): Fail
-Ошибка! Значение max_input_vars должно быть не ниже 10000. Текущее значение: 1000
+2017-Sep-14 16:18:21 Обязательные параметры PHP (check_php_settings): Ok
+Настройки правильные
+2017-Sep-14 16:18:21 Модули веб-сервера (check_security): Ok
+Конфликтов не выявлено
+2017-Sep-14 16:18:22 Значения переменных сервера (check_server_vars): Ok
+Корректные
+2017-Sep-14 16:18:22 Сохранение сессии (check_session): Ok
+50% done
+2017-Sep-14 16:18:22 Сохранение сессии (check_session): Ok
+Успешно
+2017-Sep-14 16:18:22 Параметры настройки UTF (mbstring и константа BX_UTF) (check_mbstring): Fail
+Ошибка! Сайт работает в UTF кодировке, настройки mbstring:mbstring.func_overload=0mbstring.internal_encoding=требуется:mbstring.func_overload=2mbstring.internal_encoding=utf-8
+2017-Sep-14 16:18:22 Служебные скрипты в корне сайта (check_install_scripts): Ok
+Отсутствуют
+2017-Sep-14 16:18:22 Работа с сокетами (check_socket): Ok
+Connection to fnstore.ru:80	Success
+
+Успешно
+2017-Sep-14 16:18:23 Выполнение агентов на cron (check_bx_crontab): Warning
+Замечание. Агенты выполняются на хитах, рекомендуется перевести выполнение агентов на cron
+2017-Sep-14 16:18:23 Параметры подключения к базе данных (check_dbconn_settings): Ok
+Успешно
+2017-Sep-14 16:18:23 Лишний вывод в файлах конфигурации (check_dbconn): Ok
+Connection to fnstore.ru:80	Success
+
+Успешно
+2017-Sep-14 16:18:23 Сохранение сессии без UserAgent (check_session_ua): Ok
+50% done
+Connection to fnstore.ru:80	Success
+
+2017-Sep-14 16:18:24 Сохранение сессии без UserAgent (check_session_ua): Ok
+Connection to fnstore.ru:80	Success
+
+Успешно
+2017-Sep-14 16:18:24 Настройки сайтов (check_sites): Ok
+Правильные
+2017-Sep-14 16:18:24 Передача объектов по ссылке (check_clone): Ok
+Успешно
+2017-Sep-14 16:18:24 Размер стека и pcre.recursion_limit (check_pcre_recursion): Warning
+Connection to fnstore.ru:80	Success
+
+Замечание. Возможны проблемы в работе с длинными строками из-за системных ограничений
+2017-Sep-14 16:18:24 Вызов method_exists на строке (check_method_exists): Ok
+Connection to fnstore.ru:80	Success
+
+Успешно
+2017-Sep-14 16:18:24 Загрузка файла (check_upload): Ok
+Connection to fnstore.ru:80	Success
+
+Успешно
+2017-Sep-14 16:18:25 Загрузка файла больше 4Мб (check_upload_big): Ok
+Connection to fnstore.ru:80	Success
+
+Успешно
+2017-Sep-14 16:18:25 Загрузка файла через php://input (check_upload_raw): Ok
+Connection to fnstore.ru:80	Success
+
+Успешно
+2017-Sep-14 16:18:25 Передача POST запроса с большим числом параметров (check_post): Ok
+Connection to fnstore.ru:80	Success
+
+Успешно
+2017-Sep-14 16:18:26 Отправка почты (check_mail): Ok
+Успешно
+2017-Sep-14 16:18:26 Отправка почтового сообщения больше 64Кб (check_mail_big): Ok
+Успешно
+2017-Sep-14 16:18:26 Проверка на наличие неотправленных сообщений (check_mail_b_event): Ok
+Успешно
+2017-Sep-14 16:18:26 Внутреннее перенаправление (функция LocalRedirect) (check_localredirect): Ok
+50% done
+Connection to fnstore.ru:80	Success
+
+2017-Sep-14 16:18:26 Внутреннее перенаправление (функция LocalRedirect) (check_localredirect): Ok
+Connection to fnstore.ru:80	Success
+
+Успешно
+2017-Sep-14 16:18:27 Фактическое ограничение памяти (check_memory_limit): Ok
+20% done
+Connection to fnstore.ru:80	Success
+
+2017-Sep-14 16:18:27 Фактическое ограничение памяти (check_memory_limit): Ok
+40% done
+Connection to fnstore.ru:80	Success
+
+2017-Sep-14 16:18:27 Фактическое ограничение памяти (check_memory_limit): Ok
+60% done
+Connection to fnstore.ru:80	Success
+
+2017-Sep-14 16:18:27 Фактическое ограничение памяти (check_memory_limit): Ok
+80% done
+Connection to fnstore.ru:80	Success
+
+2017-Sep-14 16:18:28 Фактическое ограничение памяти (check_memory_limit): Ok
+Connection to fnstore.ru:80	Success
+
+Не менее 256 М
+2017-Sep-14 16:18:29 Работа с файлами кеша (check_cache): Ok
+Успешно
+2017-Sep-14 16:18:29 Доступ к серверу обновлений (check_update): Ok
+Успешно
+2017-Sep-14 16:18:30 HTTP авторизация (check_http_auth): Ok
+Connection to fnstore.ru:80	Success
+
+Успешно
+2017-Sep-14 16:18:30 Создание и запуск файла (check_exec): Ok
+Connection to fnstore.ru:80	Success
+
+Успешно
+2017-Sep-14 16:18:30 Функция getimagesize для swf (check_getimagesize): Ok
+Успешно
+2017-Sep-14 16:18:30 Версия MySQL-сервера (check_mysql_bug_version): Ok
+Успешно
+2017-Sep-14 16:18:31 Время на БД и веб-сервере (check_mysql_time): Ok
+Успешно
+2017-Sep-14 16:18:31 Режим работы MySQL (check_mysql_mode): Ok
+Успешно
+2017-Sep-14 16:18:31 Кодировка соединения (check_mysql_connection_charset): Ok
+character_set_connection=utf8, collation_connection=utf8_unicode_ci, character_set_results=utf8
+Успешно
+2017-Sep-14 16:18:31 Кодировка базы данных (check_mysql_db_charset): Ok
+CHARSET=utf8, COLLATION=utf8_unicode_ci
+Успешно
+2017-Sep-14 16:18:39 Кодировки таблиц в БД (check_mysql_table_charset): Ok
+Успешно

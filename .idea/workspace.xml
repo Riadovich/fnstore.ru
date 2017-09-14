@@ -2,8 +2,139 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4355c800-e2d9-4f03-911d-652fbad72339" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/css/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/css/fonts/MyriadPro/MyriadPro-Bold.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/css/fonts/MyriadPro/MyriadPro-BoldCond.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/css/fonts/MyriadPro/MyriadPro-BoldCondIt.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/css/fonts/MyriadPro/MyriadPro-BoldIt.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/css/fonts/MyriadPro/MyriadPro-Cond.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/css/fonts/MyriadPro/MyriadPro-CondIt.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/css/fonts/MyriadPro/MyriadPro-It.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/css/fonts/MyriadPro/MyriadPro-Regular.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/css/fonts/MyriadPro/MyriadPro-Semibold.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/css/fonts/MyriadPro/MyriadPro-SemiboldIt.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/css/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/css/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/css/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/css/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/css/fonts/oswald/Oswald-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/css/fonts/oswald/Oswald-Light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/css/fonts/oswald/Oswald-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/css/images/bx_loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/css/images/controls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/css/lightslider/controls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/apple-touch-icon-114x114.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/apple-touch-icon-57x57.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/apple-touch-icon-72x72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/bg_banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/bg_banner2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/map_marker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/reload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/serdce.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/or.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/sale.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/social/FB.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/social/Odnoklasniki.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/social/Twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/social/VK.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/tovar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/tovar2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/tovar3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/tovar4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/tovar5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/user.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/components/head.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/css/animate/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/css/bootstrap/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/css/bootstrap/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/css/fancybox/jquery.fancybox.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/css/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/css/fonts/oswald/OFL.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/css/glide/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/css/glide/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/css/glide/glide.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/css/lightslider/lightslider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/css/mmenu/jquery.mmenu.all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/css/mmenu/jquery.mmenu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/css/nprogress/nprogress.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/basket.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/basket_add.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/bg_cart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/burger.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/cart_time.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/check.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/checkbox.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/checkbox_check.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/cls.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/color_check.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/compare.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/curent.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/del.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/delete.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/list.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/lupa.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/map.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/map_marker.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/more.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/more_but.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/more_news.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/msg.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/next_step.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/paypal.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/phone.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/polygon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/prev_step.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/read_comment.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/reload.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/reyting.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/share.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/sl_left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/sl_right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/table.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/tech1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/tech2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/tech3.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/tech4.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/tech5.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/time.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/user.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/visa.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/vote_down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/vote_top.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/x.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/js/bootstrap/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/js/bxslider/jquery.bxslider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/js/fancybox/jquery.fancybox.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/js/glide/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/js/glide/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/js/glide/glide.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/js/gmap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/js/imagefill/jquery-imagefill.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/js/imagesloaded/imagesloaded.pkgd.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/js/jquery-1.12.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/js/jquery-ui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/js/js.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/js/lightslider/lightslider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/js/minigrid/minigrid.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/js/mmenu/jquery.mmenu.all.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/js/mmenu/jquery.mmenu.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/js/nprogress/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/js/nprogress/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/js/nprogress/nprogress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/js/timer/jquery.cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/js/wow/wow.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/page_templates/bootstrap/lang/ru/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/page_templates/bootstrap/lang/ua/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bitrix/templates/fnstore_test/page_templates/bootstrap/template.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/87/87e5b89457a0d8341412b839b83e785e.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/f0/f0fc06318e8ac66f82152783eff5c4d8.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/cache/iblock/menu/c3/c33d28c1af3b1d1c1f86c5cc2e2f91d8.php" afterPath="$PROJECT_DIR$/bitrix/cache/iblock/menu/c3/c33d28c1af3b1d1c1f86c5cc2e2f91d8.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/cache/s1/bitrix/sender.subscribe/8d/8ddf878039b70767c4a5bcf4f0c4f65e.php" afterPath="$PROJECT_DIR$/bitrix/cache/s1/bitrix/sender.subscribe/8d/8ddf878039b70767c4a5bcf4f0c4f65e.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/16/16908b0605f2645dfcb4c3a8d248cef3.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/16/16908b0605f2645dfcb4c3a8d248cef3.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/1d/1dfcfb9cd85f9e66fd4498aa2f484704.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/1d/1dfcfb9cd85f9e66fd4498aa2f484704.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/27/27850a3654870e28053dd5b6d2051c3e.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/27/27850a3654870e28053dd5b6d2051c3e.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/28/28976769ed03dceeac01ae0d1c0e331d.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/28/28976769ed03dceeac01ae0d1c0e331d.php" />
@@ -16,16 +147,22 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_catalog_currency/8b/8bee609c70ea3973541eb24e440070f0.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_catalog_currency/8b/8bee609c70ea3973541eb24e440070f0.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/11/11f43c0c654a1af87d65af381ebabdd6.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/11/11f43c0c654a1af87d65af381ebabdd6.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/1d/1d9edc3f00aead46cc43db052e934f11.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/1d/1d9edc3f00aead46cc43db052e934f11.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/20/20f853ec0f764928d3ef43253acacf98.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/20/20f853ec0f764928d3ef43253acacf98.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/2b/2b8e050e92fb8e759f4d47843986bd0b.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/2b/2b8e050e92fb8e759f4d47843986bd0b.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/2d/2d01653203ee8a1e4595bd0b27d636f2.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/2d/2d01653203ee8a1e4595bd0b27d636f2.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/33/337a7e1f967bcb941395a3e7433d65b8.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/33/337a7e1f967bcb941395a3e7433d65b8.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/36/3617741705059537d49166388178cc3e.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/36/3617741705059537d49166388178cc3e.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/3b/3b2b4d451df06bab4f9cc5321ca9e238.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/3b/3b2b4d451df06bab4f9cc5321ca9e238.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/3b/3b46223af24942f8f2d8c73af7109a68.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/3b/3b46223af24942f8f2d8c73af7109a68.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/44/44692c721e6a87c1e0bb093ba3b58861.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/44/44692c721e6a87c1e0bb093ba3b58861.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/6e/6e49bc2b9b42b7b26006819c12c13878.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/6e/6e49bc2b9b42b7b26006819c12c13878.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/6f/6fdac7cbef0339384294d6a14fb21f02.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/6f/6fdac7cbef0339384294d6a14fb21f02.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/76/76809f59d2480a4bfb90ea467582ed98.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/76/76809f59d2480a4bfb90ea467582ed98.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/77/776e1614e97bbf81c1ed5ea70da26b3f.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/77/776e1614e97bbf81c1ed5ea70da26b3f.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/82/82a633555a53045d3f638d22235cf616.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/82/82a633555a53045d3f638d22235cf616.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/a6/a64a5bf135785d8764680d5b406abfcb.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/a6/a64a5bf135785d8764680d5b406abfcb.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/aa/aaf690b3a09e9d3a00ca3c89ec9b8b24.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/aa/aaf690b3a09e9d3a00ca3c89ec9b8b24.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/b4/b45f66ec1f0c81a32636df9b81b8c1c5.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/b4/b45f66ec1f0c81a32636df9b81b8c1c5.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/ba/ba6410093f7c6d289b330be76826f4e2.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/ba/ba6410093f7c6d289b330be76826f4e2.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/cb/cb54184b9c7e54769569a0636a8eca91.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/cb/cb54184b9c7e54769569a0636a8eca91.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/cd/cd5457f36a563044002e094895d9e3dc.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/cd/cd5457f36a563044002e094895d9e3dc.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/df/df42ead979f3de3b67b0906c0040c14f.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/df/df42ead979f3de3b67b0906c0040c14f.php" />
@@ -35,7 +172,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/f4/f45b2eafac5adce8b852d6a611cfee9a.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/f4/f45b2eafac5adce8b852d6a611cfee9a.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_iblock/12/12fe59ed4fd47eb7f7e38cdc8ffb4896.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_iblock/12/12fe59ed4fd47eb7f7e38cdc8ffb4896.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_iblock_type/4a/4a6d950e7b4790479f950d2a5921c62d.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_iblock_type/4a/4a6d950e7b4790479f950d2a5921c62d.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_iblock_type/d1/d1fcc4d6b01472eb4145c2317c425042.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_iblock_type/d1/d1fcc4d6b01472eb4145c2317c425042.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/4d/4ddd3d008a59ee248a70e8d70e0f258e.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/4d/4ddd3d008a59ee248a70e8d70e0f258e.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/55/5585b8ebad58e8064a1c7284562b5b47.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/55/5585b8ebad58e8064a1c7284562b5b47.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/8a/8a6771cf0faa05bbec84465de484e41d.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/8a/8a6771cf0faa05bbec84465de484e41d.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/b4/b41953f2bfbb14fe6047697d6684ea17.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/b4/b41953f2bfbb14fe6047697d6684ea17.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/c5/c50f038ed6291a78ea68e4a590830017.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/c5/c50f038ed6291a78ea68e4a590830017.php" />
@@ -56,18 +195,26 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task_operation/a9/a987537279ba1ea67b8673cf28697d8f.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task_operation/a9/a987537279ba1ea67b8673cf28697d8f.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task_operation/b3/b3d102e05659b57fe9571855dab3fb50.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task_operation/b3/b3d102e05659b57fe9571855dab3fb50.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task_operation/b3/b3fcb28d7555a1c8631cec61e264ec75.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task_operation/b3/b3fcb28d7555a1c8631cec61e264ec75.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_user_field/0c/0c29754507d3b6de41a19d433fe35f49.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_user_field/0c/0c29754507d3b6de41a19d433fe35f49.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_user_field/2e/2e6a273236f0b85d8376847d66fc7a31.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_user_field/2e/2e6a273236f0b85d8376847d66fc7a31.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_user_field/2f/2f0a715c791f6536876a0da8bd0cae52.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_user_field/2f/2f0a715c791f6536876a0da8bd0cae52.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_user_field/94/94ce3a26724eea812b5d5794bbbe05c4.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_user_field/94/94ce3a26724eea812b5d5794bbbe05c4.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_vote_channel/ea/ea545ae339b8172befc5456097d110f2.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_vote_channel/ea/ea545ae339b8172befc5456097d110f2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/bd/bd21575483a0787a72df6dead4cb9a56.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/bd/bd21575483a0787a72df6dead4cb9a56.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/c0/c0276d38fff5d9e235c9692e1e39d16b.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/c0/c0276d38fff5d9e235c9692e1e39d16b.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/catalog_group/41/419e964e5def1e80617fa3a816965a78.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/catalog_group/41/419e964e5def1e80617fa3a816965a78.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/e5/e56397d99b3a76ae3f02219877fed2c7.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/e5/e56397d99b3a76ae3f02219877fed2c7.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/fb/fbebca4e0e7b3b5d5031caeb6b93a51f.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/fb/fbebca4e0e7b3b5d5031caeb6b93a51f.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/security/events/49/4950220e4a6334e2e99b5f0eb44e033c.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/security/events/49/4950220e4a6334e2e99b5f0eb44e033c.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_counter/07/07eb0f1993c4710915ed575997ed9396.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_counter/07/07eb0f1993c4710915ed575997ed9396.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/01/0188d3b3a37dc7ecc0c406ecb1ddeb6f.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/01/0188d3b3a37dc7ecc0c406ecb1ddeb6f.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/80/80d0df1c506cfa11d255d489ea901529.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/80/80d0df1c506cfa11d255d489ea901529.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/9d/9d77e95c1cc023d8603d2bff85806e0f.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/9d/9d77e95c1cc023d8603d2bff85806e0f.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/e4/e46a7cd1240e5249e769c3b594014c74.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/e4/e46a7cd1240e5249e769c3b594014c74.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/eb/eb3508c4ba55f931e8c612a0cb61f17c.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/eb/eb3508c4ba55f931e8c612a0cb61f17c.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/site_checker_7f41a20e798f7ada9e925cdddb7dc70d.log" afterPath="$PROJECT_DIR$/bitrix/site_checker_7f41a20e798f7ada9e925cdddb7dc70d.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/stack_cache/MYSQL/currency_currency_lang/06/06e86a31a9acbf1f2b244a314b769dc6.php" afterPath="$PROJECT_DIR$/bitrix/stack_cache/MYSQL/currency_currency_lang/06/06e86a31a9acbf1f2b244a314b769dc6.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/stack_cache/MYSQL/currency_rate/61/617ce81921b8be705ca13e5be3992c16.php" afterPath="$PROJECT_DIR$/bitrix/stack_cache/MYSQL/currency_rate/61/617ce81921b8be705ca13e5be3992c16.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -78,61 +225,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="head.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bitrix/templates/fnstore_test/components/head.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bitrix/templates/fnstore_test/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bitrix/templates/fnstore/header.php">
+        <entry file="file://$PROJECT_DIR$/bitrix/templates/eshop_bootstrap_red/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bitrix/templates/fnstore/footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="description.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bitrix/templates/fnstore/description.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".styles.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bitrix/templates/fnstore/.styles.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template_styles.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bitrix/templates/fnstore/template_styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bitrix/templates/fnstore/styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="170">
+              <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="11" selection-end-column="84" />
               <folding />
             </state>
           </provider>
@@ -155,6 +272,9 @@
       <list>
         <option value="$PROJECT_DIR$/bitrix/templates/fnstore/template_styles.css" />
         <option value="$PROJECT_DIR$/bitrix/templates/fnstore/styles.css" />
+        <option value="$PROJECT_DIR$/bitrix/templates/fnstore_test/components/head.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/fnstore_test/footer.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/fnstore_test/header.php" />
       </list>
     </option>
   </component>
@@ -186,6 +306,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -216,20 +337,32 @@
               <item name="fnstore.ru" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="fnstore" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="fnstore_test" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="fnstore.ru" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fnstore.ru" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="fnstore_test" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\fnstore.ru\bitrix\templates\fnstore_test" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -253,12 +386,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1505305112449</updated>
-      <workItem from="1505305146566" duration="3726000" />
+      <workItem from="1505305146566" duration="3813000" />
+      <workItem from="1505391300452" duration="7045000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3726000" />
+    <option name="totallyTimeSpent" value="10858000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -266,20 +400,20 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -294,15 +428,21 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bitrix/templates/fnstore/header.php">
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/fnstore/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bitrix/templates/fnstore/footer.php">
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/fnstore/template_styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/fnstore/.styles.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -318,7 +458,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bitrix/templates/fnstore/.styles.php">
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/fnstore/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -326,7 +466,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bitrix/templates/fnstore/template_styles.css">
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/fnstore/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/eshop_bootstrap_red/components/bitrix/menu/personal_menu/template.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -334,10 +482,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bitrix/templates/fnstore/styles.css">
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/fnstore_test/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-941">
+          <caret line="2" column="71" lean-forward="false" selection-start-line="2" selection-start-column="71" selection-end-line="2" selection-end-column="71" />
+          <folding>
+            <marker date="1505392583444" expanded="false" signature="478:484" ph="©" />
+            <marker date="1505392583444" expanded="false" signature="1461:1467" ph=" " />
+            <marker date="1505392583444" expanded="false" signature="1467:1473" ph=" " />
+            <marker date="1505392583444" expanded="false" signature="1473:1479" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/eshop_bootstrap_red/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/fnstore_test/img/ico/x.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/fnstore_test/page_templates/bootstrap/lang/ru/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/fnstore_test/components/head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/eshop_bootstrap_red/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="11" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/fnstore_test/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
           <folding />
         </state>
       </provider>

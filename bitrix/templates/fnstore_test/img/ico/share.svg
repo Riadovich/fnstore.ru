@@ -1,0 +1,21 @@
+      <svg xmlns="http://www.w3.org/2000/svg" width="100" height="101" viewBox="0 0 100 101">
+                                <defs>
+                                    <filter id="a" width="200%" height="200%" x="-50%" y="-50%">
+                                        <feMorphology in="SourceGraphic" operator="dilate" result="SvgjsFeMorphology1038Out"/>
+                                        <feOffset dy="5" in="SvgjsFeMorphology1038Out" result="SvgjsFeOffset1039Out"/>
+                                        <feGaussianBlur in="SvgjsFeOffset1039Out" result="SvgjsFeGaussianBlur1040Out" stdDeviation="10"/>
+                                        <feComposite in="SvgjsFeGaussianBlur1040Out" in2="SourceAlpha" operator="out" result="SvgjsFeComposite1041Out"/>
+                                    </filter>
+                                    <filter id="b" width="200%" height="200%" x="-50%" y="-50%">
+                                        <feGaussianBlur in="SourceGraphic" result="SvgjsFeGaussianBlur1047Out"/>
+                                    </filter>
+                                    <mask id="c">
+                                        <path fill="#fff" d="M1495 880a30 30 0 1 1 0 60 30 30 0 0 1 0-60z"/>
+                                    </mask>
+                                </defs>
+                                <path fill="#FEB409" fill-opacity=".3" d="M1495 880a30 30 0 1 1 0 60 30 30 0 0 1 0-60z" filter="url(#a)" transform="translate(-1445 -864)"/>
+                                <path fill="#FEB409" d="M50 16a30 30 0 1 1 0 60 30 30 0 0 1 0-60z"/>
+                                <path fill="#FEB409" d="M50 16a30 30 0 1 1 0 60 30 30 0 0 1 0-60z"/>
+                                <path fill="#FEB409" d="M1465 941v-63h60v63z" filter="url(#b)" mask="url(&quot;#c&quot;)" transform="translate(-1445 -864)"/>
+                                <path fill="#fff" d="M54.92 48.7c-1.26 0-2.38.58-3.13 1.5l-4.87-2.81a4.22 4.22 0 0 0 0-2.78l4.87-2.81c.74.92 1.87 1.5 3.13 1.5A4.12 4.12 0 0 0 59 39.15 4.12 4.12 0 0 0 54.92 35a4.12 4.12 0 0 0-4.07 4.15c0 .49.08.95.23 1.39l-4.87 2.81a4.01 4.01 0 0 0-3.13-1.5A4.12 4.12 0 0 0 39 46a4.12 4.12 0 0 0 4.08 4.15c1.26 0 2.39-.58 3.13-1.5l4.87 2.81c-.15.44-.23.9-.23 1.39A4.12 4.12 0 0 0 54.92 57 4.12 4.12 0 0 0 59 52.85a4.12 4.12 0 0 0-4.08-4.15zm0-12.25a2.68 2.68 0 0 1 2.65 2.7c0 1.49-1.19 2.7-2.65 2.7a2.68 2.68 0 0 1-2.65-2.7c0-1.49 1.19-2.7 2.65-2.7zM43.08 48.7a2.68 2.68 0 0 1-2.65-2.7c0-1.49 1.19-2.7 2.65-2.7a2.68 2.68 0 0 1 2.65 2.7c0 1.49-1.19 2.7-2.65 2.7zm11.84 6.85a2.68 2.68 0 0 1-2.65-2.7c0-1.49 1.19-2.7 2.65-2.7a2.68 2.68 0 0 1 2.65 2.7c0 1.49-1.19 2.7-2.65 2.7z"/>
+                            </svg>
